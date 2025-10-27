@@ -72,16 +72,5 @@ The model performs reasonably well on dominant classes like **neutral** and **wo
 *  Python
 *  Pandas
 *  Scikit-learn
-*  📊Matplotlib
+*  Matplotlib
 *  Seaborn
-
----
-
-## 👨‍💻 Author
-
-**Agil Firli Gunawan**
-Information Systems Student – Universitas Ahmad Dahlan
-Focus: *Data Science* & *Business Intelligence*
-
-🔗 [Open in Google Colab](https://colab.research.google.com/)
-📂 [View Full Project on GitHub](https://github.com/)
