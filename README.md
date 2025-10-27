@@ -5,9 +5,9 @@ The goal is to understand emotional patterns in social media text and demonstrat
 
 ## 📊 Dataset
 
-Dataset: **`tweet_emotions.csv`**
-Link : [https://www.kaggle.com/datasets/emirhanai/emotion-prediction-with-semi-supervised-learning]
-Contains around **40,000 tweets** labeled with various emotions such as:
+* Dataset: **`tweet_emotions.csv`**
+* Link : [https://www.kaggle.com/datasets/emirhanai/emotion-prediction-with-semi-supervised-learning]
+* Contains around **40,000 tweets** labeled with various emotions such as:
 
 * 😊 *Happiness*
 * 😔 *Sadness*
